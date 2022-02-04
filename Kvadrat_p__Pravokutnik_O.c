@@ -13,7 +13,7 @@ int main()
 
     if (a==b)
     {
-        int povrsinaKvadrata = a * 4;
+        int povrsinaKvadrata = a*a;
         printf ("Ovo je kvadrat i njegova povrsina je %d", povrsinaKvadrata);
     }
     else
