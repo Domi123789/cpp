@@ -35,6 +35,24 @@ int main ()
     case 3:
     printf("Unesi broj");
     scanf ("d", &def);
+            
+     case 4:
+    printf ("Unesi broj\n");
+    scanf ("%d", &ghi);
+    switch (ghi)
+    {
+        case 1:
+        printf ("G");
+    }
+    {
+        case 2:
+            printf("H");
+    }
+    {
+        case 3:
+            printf ("I");
+            break;
+    }
 
     }
 }
