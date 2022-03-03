@@ -44,6 +44,8 @@ int main ()
         scanf("%d",&r);
         printf ("Povrsina kruga je %.2f", (float) r*r*3.14);
         break;
+    default:
+        printf("Krivo");
     }
 
     return 0;
