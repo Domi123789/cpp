@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* Napiöi funkc za slijedno pretrazivanje 1D polja
+/* Napi≈°i funkc za slijedno pretrazivanje 1D polja
 
-u glavnoj fukciji treba generirati poulje od n sluËajnih cijelih brojeva iz intervala pod 1 do 100
+u glavnoj fukciji treba generirati poulje od n slu√®ajnih cijelih brojeva iz intervala pod 1 do 100
 
-s pomoÊu funkcije traûi ispiöe se indeks prve pojave elementa koji ima vrijendost iz intervala od 8 do 10
-ako takva vrijenodst nije sadrûana ni u jednom elementu ispiöe se -1 */
+s pomo√¶u funkcije tra≈æi ispi≈°e se indeks prve pojave elementa koji ima vrijendost iz intervala od 8 do 10
+ako takva vrijenodst nije sadr≈æana ni u jednom elementu ispi≈°e se -1 */
 
 int trazi(int A[], int n){
     int i;
